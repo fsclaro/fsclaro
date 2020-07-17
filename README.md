@@ -2,7 +2,7 @@
 
 My name is Fernando Salles and I live in the city of Tremembé, São Paulo, Brazil (🇧🇷). I'm Systems Analyst at [Research, Technologies and Services Company of the University of Taubaté](https://www.epts.com.br) and I am also a college professor in computer science and computer engineering courses at [Faculdade Anhanguera](https://www.anhanguera.com) in São José dos Campos, São Paulo, Brazil. I currently develop web solutions using both front-end and back-end. In the back-end I mainly use the [PHP language](https://www.php.net) with the [Laravel framework](https://www.laravel.com). 
 
-In my free time, I like read good books (📚) and watch my tv (📺) and movies (🎞️) series. I like Sci-Fi, Marvel and DC series too, in special Star Trek series. My music (🎵) style preferred are Jazz, Blues, Bossa Nova and Rock.
+In my free time, I like read good books (📚) and watch my tv (📺) and movies (🎞️) series. I like Sci-Fi, Marvel and DC series too, in special Star Trek series. My music (🎵) style preferred are Jazz, Blues, Bossa Nova and Rock 'n'roll.
 
 If you want to know me better, access my portfolio and my personal blog below
 
