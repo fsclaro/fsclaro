@@ -4,7 +4,7 @@ My name is Fernando Salles and I live in the city of Tremembé, São Paulo, Braz
 
 In my free time, I like read good books (📚) and watch my tv (📺) and movies (🎞️) series. I like Sci-Fi, Marvel and DC series too, in special Star Trek series. My music (🎵) style preferred are Jazz, Blues, Bossa Nova and Rock n'roll.
 
-If you want to know me better, access my portfolio and my personal blog below
+If you want to know me better, access my portfolio or my personal blog or my social networks below
 
 [![Blog Badge](https://img.shields.io/badge/Blog-Studio-blue)](https://studio.nandosalles.com.br)
 [![Portifolio Badge](https://img.shields.io/badge/Portfolio-My%20Digital%20Home-green)](https://www.nandosalles.com.br)
