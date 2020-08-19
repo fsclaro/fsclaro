@@ -6,9 +6,9 @@ In my free time, I like read good books (📚) and watch my tv (📺) and movies
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fsclaro&show_icons=true" alt="fsclaro" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fsclaro)
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fsclaro)]
 
 If you want to know me better, access my portfolio or my personal blog or my social networks below
 
