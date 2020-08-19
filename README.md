@@ -6,8 +6,8 @@ In my free time, I like read good books (📚) and watch my tv (📺) and movies
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fsclaro&show_icons=true" alt="fsclaro" />
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fsclaro)](https://github.com/fsclaro/github-readme-stats)
 </p>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fsclaro)](https://github.com/fsclaro/github-readme-stats)
 
 If you want to know me better, access my portfolio or my personal blog or my social networks below
 
