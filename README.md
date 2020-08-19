@@ -14,10 +14,3 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fsclaro&show_icons=true" alt="fsclaro" /></p>
 
-<p align="center"> 
-<a href="https://twitter.com/nandosalles" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nandosalles" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/fsclaro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fsclaro" height="30" width="30" /></a>
-<a href="https://fb.com/nandosallesbr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nandosallesbr" height="30" width="30" /></a>
-<a href="https://instagram.com/nandosalles" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nandosalles" height="30" width="30" /></a>
-<a href="https://medium.com/nandosalles" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="nandosalles" height="30" width="30" /></a>
-</p>
