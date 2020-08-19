@@ -4,10 +4,8 @@ My name is Fernando Salles and I live in the city of Tremembé, São Paulo, Braz
 
 In my free time, I like read good books (📚) and watch my tv (📺) and movies (🎞️) series. I like Sci-Fi, Marvel and DC series too, in special Star Trek series. My music (🎵) style preferred are Jazz, Blues, Bossa Nova and Rock n'roll.
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fsclaro&show_icons=true" alt="fsclaro" />
+![Stats](https://github-readme-stats.vercel.app/api?username=fsclaro&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fsclaro)
-</p>
 
 
 If you want to know me better, access my portfolio or my personal blog or my social networks below
