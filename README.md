@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Fernando Salles and I live in the city of Tremembé, São Paulo, Brazil (🇧🇷). I'm Systems Analyst at [Research, Technologies and Services Company of the University of Taubaté](https://www.epts.com.br) and I am also a college professor in computer science and computer engineering courses at [Faculdade Anhanguera](https://www.anhanguera.com) in São José dos Campos, São Paulo, Brazil. I currently develop web solutions using both front-end and back-end. In the back-end I mainly use the [PHP language](https://www.php.net) with the [Laravel framework](https://www.laravel.com). 
 
@@ -12,7 +12,7 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandosalles/)](https://www.linkedin.com/in/nandosalles/)
 
 
-# :chart_with_upwards_trend: GitHub Stats
+## :chart_with_upwards_trend: GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=fsclaro&show_icons=true&include_all_commits)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fsclaro&layout=compact)
 
