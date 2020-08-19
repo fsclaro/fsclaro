@@ -7,9 +7,11 @@ In my free time, I like read good books (📚) and watch my tv (📺) and movies
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fsclaro&show_icons=true" alt="fsclaro" />
 </p>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fsclaro)](https://github.com/fsclaro/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fsclaro)]
 
 If you want to know me better, access my portfolio or my personal blog or my social networks below
+
 
 <p align="center">
 [![Blog Badge](https://img.shields.io/badge/Blog-Studio-blue)](https://studio.nandosalles.com.br)
