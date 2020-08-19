@@ -12,7 +12,7 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandosalles/)](https://www.linkedin.com/in/nandosalles/)
 
 <hr>
-
+# :chart_increasing: GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=fsclaro&show_icons=true&include_all_commits)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fsclaro&layout=compact)
 
