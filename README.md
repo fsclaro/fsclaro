@@ -1,4 +1,4 @@
-<h2> Hi there <img src=""></h2>
+<h2> Hi there <img src="https://github.com/fsclaro/fsclaro/blob/master/wave.gif"></h2>
 
 My name is Fernando Salles and I live in the city of Tremembé, São Paulo, Brazil (🇧🇷). I'm Systems Analyst at [Research, Technologies and Services Company of the University of Taubaté](https://www.epts.com.br) and I am also a college professor in computer science and computer engineering courses at [Faculdade Anhanguera](https://www.anhanguera.com) in São José dos Campos, São Paulo, Brazil. I currently develop web solutions using both front-end and back-end. In the back-end I mainly use the [PHP language](https://www.php.net) with the [Laravel framework](https://www.laravel.com). 
 
