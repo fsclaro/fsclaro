@@ -6,11 +6,12 @@ In my free time, I like read good books (📚) and watch my tv (📺) and movies
 
 If you want to know me better, access my portfolio or my personal blog or my social networks below
 
-<img align="center" src="https://img.shields.io/badge/Blog-Studio-blue)](https://studio.nandosalles.com.br">
-<img align="center" src="https://img.shields.io/badge/Portfolio-My%20Digital%20Home-green)](https://www.nandosalles.com.br">
-<img align="center" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fsclaro)](https://twitter.com/fsclaro">
-<img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandosalles/)](https://www.linkedin.com/in/nandosalles/">
-
+<a style="align-text:center">
+<img src="https://img.shields.io/badge/Blog-Studio-blue">
+<img src="https://img.shields.io/badge/Portfolio-My%20Digital%20Home-green">
+<img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fsclaro">
+<img"center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandosalles">
+</a>
 
 
 [![Blog Badge](https://img.shields.io/badge/Blog-Studio-blue)](https://studio.nandosalles.com.br)
