@@ -23,7 +23,9 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=flat&logo=markdown&logoColor=white"/> 
 <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=flat&logo=gnu-bash&logoColor=white"/> 
 <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=flat&logo=vue.js&logoColor=%234FC08D"/> 
+</p>
 
+<p align="center">
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white"/> 
 <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=flat&logo=laravel&logoColor=white"/> 
 <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat&logo=jquery&logoColor=white"/> 
