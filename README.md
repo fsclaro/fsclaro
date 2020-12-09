@@ -35,6 +35,6 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 
 ## :chart_with_upwards_trend: GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fsclaro&show_icons=true&include_all_commits&count_private=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsclaro&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fsclaro&show_icons=true&include_all_commits&count_private=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsclaro&layout=compact&theme=radical" />
 </p>
