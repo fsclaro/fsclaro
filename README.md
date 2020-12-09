@@ -18,13 +18,10 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=flat&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=flat&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/>
 
 ## :chart_with_upwards_trend: GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=fsclaro&show_icons=true&include_all_commits&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fsclaro&layout=compact&theme=radical)
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/fsclaro">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fsclaro&show_icons=true&include_all_commits&count_private=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+
+<a href="https://github.com/fsclaro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsclaro&layout=compact&theme=radical" />
 </a>
