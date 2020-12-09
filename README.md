@@ -6,7 +6,7 @@ In my free time, I like read good books (📚) and watch my tv (📺) and movies
 
 If you want to know me better, access my portfolio or my personal blog or my social networks below
 
-<a style="align-text:center">
+<p align="center">
 <img src="https://img.shields.io/badge/Blog-Studio-blue">
 <img src="https://img.shields.io/badge/Portfolio-My%20Digital%20Home-green">
 <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fsclaro">
