@@ -14,7 +14,7 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 </a>
 
 
-## 🧑🏻‍💻 Skills
+## 🧑🏻‍💻 Skills and Learning
 <p align="center">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/> 
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white"/> 
