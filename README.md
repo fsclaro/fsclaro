@@ -28,7 +28,10 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 ![Git Flow](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![jQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
-![GraphQl](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQl)
+![GraphQl](https://img.shields.io/badge/-GraphQl-000?&logo=GraphQl)
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
+![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
+![NextJS](https://img.shields.io/badge/-NextJS-000?&logo=NextJS)
 
 ## 🧑🏻‍💻 Learning
 <p align="center">
