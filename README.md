@@ -14,7 +14,7 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 </a>
 
 
-## 🧑🏻‍💻 Skills and Learning
+## 🧑🏻‍💻 Skills
 <p align="center">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/> 
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white"/> 
@@ -22,10 +22,6 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=flat&logo=php&logoColor=white"/> 
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=flat&logo=markdown&logoColor=white"/> 
 <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=flat&logo=gnu-bash&logoColor=white"/> 
-<img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=flat&logo=vue.js&logoColor=%234FC08D"/> 
-</p>
-
-<p align="center">
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white"/> 
 <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=flat&logo=laravel&logoColor=white"/> 
 <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat&logo=jquery&logoColor=white"/> 
@@ -34,6 +30,15 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=flat&logo=apache&logoColor=white"/> 
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/>
 </p>
+
+## 🧑🏻‍💻 Learning
+<p align="center">
+<img src="https://img.shields.io/badge/node%20-%23323330.svg?&style=flat&logo=node&logoColor=%23F7DF1E"/> 
+<img src="https://img.shields.io/badge/reactjs%20-%23E34F26.svg?&style=flat&logo=reactjs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/nextjs%20-%231572B6.svg?&style=flat&logo=nextjs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/graphql-%23777BB4.svg?&style=flat&logo=graphql&logoColor=white"/> 
+</p>
+
 
 ## :chart_with_upwards_trend: GitHub Stats
 <p align="center">
