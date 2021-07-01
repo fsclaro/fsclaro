@@ -26,9 +26,13 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 ![Git Flow](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Mardown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
 
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
+
 ### 🧑🏻‍💻 Learning
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
+![React](https://img.shields.io/badge/-ReactJS-000?&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![NextJS](https://img.shields.io/badge/-NextJS-000?&logo=Next.js)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
