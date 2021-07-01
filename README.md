@@ -31,7 +31,7 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 ![GraphQl](https://img.shields.io/badge/-GraphQl-000?&logo=GraphQl)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
 ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
-![NextJS](https://img.shields.io/badge/-NextJS-000?&logo=NextJS)
+![NextJS](https://img.shields.io/badge/-NextJS-000?&logo=Next.js)
 
 ## 🧑🏻‍💻 Learning
 <p align="center">
