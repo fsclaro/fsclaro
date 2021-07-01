@@ -28,7 +28,7 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 ![Git Flow](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![jQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
-
+![GraphQl](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 
 ## 🧑🏻‍💻 Learning
 <p align="center">
