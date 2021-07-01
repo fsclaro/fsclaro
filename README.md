@@ -20,7 +20,7 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![Mardown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
-![ShellScript](https://img.shields.io/badge/-ShellScript-000?&logo=ShellScript)
+![ShellScript](https://img.shields.io/badge/-Shellscript-000?&logo=Shellscript)
 
 
 
