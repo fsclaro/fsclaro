@@ -37,6 +37,8 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 <img src="https://img.shields.io/badge/reactjs%20-%23E34F26.svg?&style=flat&logo=reactjs&logoColor=white"/> 
 <img src="https://img.shields.io/badge/nextjs%20-%231572B6.svg?&style=flat&logo=nextjs&logoColor=white"/> 
 <img src="https://img.shields.io/badge/graphql-%23777BB4.svg?&style=flat&logo=graphql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/jest-%23777BB4.svg?&style=flat&logo=jest&logoColor=white"/> 
+<img src="https://img.shields.io/badge/cypress-%23777BB4.svg?&style=flat&logo=cypress&logoColor=white"/> 
 </p>
 
 
