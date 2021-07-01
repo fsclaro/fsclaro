@@ -34,11 +34,14 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 ## 🧑🏻‍💻 Learning
 <p align="center">
 <img src="https://img.shields.io/badge/nodejs%20-%23323330.svg?&style=flat&logo=nodejs&logoColor=%23F7DF1E"/> 
+<img src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=flat&logo=typescript&logoColor=%23F7DF1E"/> 
 <img src="https://img.shields.io/badge/reactjs%20-%23E34F26.svg?&style=flat&logo=reactjs&logoColor=white"/> 
 <img src="https://img.shields.io/badge/nextjs%20-%231572B6.svg?&style=flat&logo=nextjs&logoColor=white"/> 
 <img src="https://img.shields.io/badge/graphql-%23777BB4.svg?&style=flat&logo=graphql&logoColor=white"/> 
 <img src="https://img.shields.io/badge/jest-%23777BB4.svg?&style=flat&logo=jest&logoColor=#C21325"/> 
 <img src="https://img.shields.io/badge/cypress-%23777BB4.svg?&style=flat&logo=cypress&logoColor=white"/> 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+  
 </p>
 
 
