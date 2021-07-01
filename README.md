@@ -16,6 +16,10 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 
 ## 🛡️ Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![HTML5](https://img.shields.io/badge/-Html5-000?&logo=Html5)
+
+
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/> 
