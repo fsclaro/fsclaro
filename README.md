@@ -33,7 +33,7 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 
 ## 🧑🏻‍💻 Learning
 <p align="center">
-<img src="https://img.shields.io/badge/nodejs.svg?&style=flat&logo=nodejs&logoColor=#339933"/> 
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=NodeJS&logoColor=%23339933"/> 
 <img src="https://img.shields.io/badge/reactjs%20-%23E34F26.svg?&style=flat&logo=reactjs&logoColor=white"/> 
 <img src="https://img.shields.io/badge/nextjs%20-%231572B6.svg?&style=flat&logo=nextjs&logoColor=white"/> 
 <img src="https://img.shields.io/badge/graphql-%23777BB4.svg?&style=flat&logo=graphql&logoColor=white"/> 
