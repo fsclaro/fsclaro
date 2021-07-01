@@ -15,35 +15,25 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 
 
 ## 🛡️ Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-Html5-000?&logo=Html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![Mardown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![jQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Git Flow](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Mardown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
+
+## 🧑🏻‍💻 Learning
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Git Flow](https://img.shields.io/badge/-Git-000?&logo=Git)
-![jQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
-![GraphQl](https://img.shields.io/badge/-GraphQl-000?&logo=GraphQl)
+![NextJS](https://img.shields.io/badge/-NextJS-000?&logo=Next.js)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
 ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
-![NextJS](https://img.shields.io/badge/-NextJS-000?&logo=Next.js)
-
-## 🧑🏻‍💻 Learning
-<p align="center">
-<img src="https://img.shields.io/badge/nodejs%20-%23323330.svg?&style=flat&logo=nodejs&logoColor=%23F7DF1E"/> 
-<img src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=flat&logo=typescript&logoColor=%23F7DF1E"/> 
-<img src="https://img.shields.io/badge/reactjs%20-%23E34F26.svg?&style=flat&logo=reactjs&logoColor=white"/> 
-<img src="https://img.shields.io/badge/nextjs%20-%231572B6.svg?&style=flat&logo=nextjs&logoColor=white"/> 
-<img src="https://img.shields.io/badge/graphql-%23777BB4.svg?&style=flat&logo=graphql&logoColor=white"/> 
-<img src="https://img.shields.io/badge/jest-%23777BB4.svg?&style=flat&logo=jest&logoColor=#C21325"/> 
-<img src="https://img.shields.io/badge/cypress-%23777BB4.svg?&style=flat&logo=cypress&logoColor=white"/> 
-  
-</p>
+![GraphQl](https://img.shields.io/badge/-GraphQl-000?&logo=GraphQl)
 
 
 ## :chart_with_upwards_trend: GitHub Stats
