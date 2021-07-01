@@ -14,7 +14,7 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 </a>
 
 
-## 🛡️ Skills
+### 🛡️ Skills
 ![HTML5](https://img.shields.io/badge/-Html5-000?&logo=Html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
@@ -26,7 +26,7 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 ![Git Flow](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Mardown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
 
-## 🧑🏻‍💻 Learning
+### 🧑🏻‍💻 Learning
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
@@ -36,7 +36,7 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 ![GraphQl](https://img.shields.io/badge/-GraphQl-000?&logo=GraphQl)
 
 
-## :chart_with_upwards_trend: GitHub Stats
+### :chart_with_upwards_trend: GitHub Stats
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fsclaro&show_icons=true&include_all_commits&count_private=true&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsclaro&layout=compact&theme=radical" />
