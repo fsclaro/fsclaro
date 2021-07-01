@@ -20,26 +20,15 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![Mardown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
-![ShellScript](https://img.shields.io/badge/-Shellscript-000?&logo=Shellscript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Git Flow](https://img.shields.io/badge/-Git-000?&logo=Git)
+![jQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 
-
-
-
-<p align="center">
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/> 
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=flat&logo=php&logoColor=white"/> 
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=flat&logo=markdown&logoColor=white"/> 
-<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=flat&logo=gnu-bash&logoColor=white"/> 
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white"/> 
-<img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=flat&logo=laravel&logoColor=white"/> 
-<img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat&logo=jquery&logoColor=white"/> 
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat&logo=github&logoColor=white"/> 
-<img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=flat&logo=apache&logoColor=white"/> 
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/>
-</p>
 
 ## 🧑🏻‍💻 Learning
 <p align="center">
