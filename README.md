@@ -4,49 +4,63 @@ My name is Fernando Salles and I live in the city of Tremembé, São Paulo, Braz
 
 In my free time, I like read good books (📚) and watch my tv (📺) and movies (🎞️) series. I like Sci-Fi, Marvel and DC series too, in special Star Trek series. My music (🎵) style preferred are Jazz, Blues, Bossa Nova and Rock n'roll.
 
-If you want to know me better, access my portfolio or my personal blog or my social networks below
 
-<p align="center">
-<img src="https://img.shields.io/badge/Blog-Studio-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Portfolio-My%20Digital%20Home-green?style=for-the-badge">
-</p>
+</br>
+
 
 ### 🔗 Connect With Me
-<p align="left">
-<img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1ca0f1&link=https://twitter.com/fsclaro">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandosalles">
-</p>
-[![Twitter][http://i.imgur.com/tXSoThF.png]](https://twitter.com/nandosalles)
+
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/github.svg"/>][github]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/workplace.svg"/>][blog]
 
 
-### 🛡️ Skills
-![HTML5](https://img.shields.io/badge/-Html5-000?&logo=Html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![jQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Git Flow](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Mardown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
+</br></br></br>
 
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
+### 🛡️ My Skills
+
+<img align="left" alt="Html5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/html5.svg" stype="--color_fill: blue"/>
+<img align="left" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/css3.svg"/>
+<img align="left" alt="PHP" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/php.svg"/>
+<img align="left" alt="Laravel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/laravel.svg"/>
+<img align="left" alt="Bootstrap" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/bootstrap.svg"/>
+<img align="left" alt="Javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/javascript.svg"/>
+<img align="left" alt="Jquery" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/jquery.svg"/>
+<img align="left" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/mysql.svg"/>
+<img align="left" alt="PostgreSQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/postgresql.svg"/>
+<img align="left" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/git.svg"/>
+<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/github.svg"/>
+<img align="left" alt="MarkDown" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/markdown.svg"/>
+<img align="left" alt="Docker" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/docker.svg"/>
+<img align="left" alt="Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/linux.svg"/>
+
+
+</br></br></br>
 
 
 ### 🧑🏻‍💻 Learning
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-ReactJS-000?&logo=React)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![NextJS](https://img.shields.io/badge/-NextJS-000?&logo=Next.js)
-![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
-![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
-![GraphQl](https://img.shields.io/badge/-GraphQl-000?&logo=GraphQl)
+<img align="left" alt="NodeJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/nodedotjs.svg"/>
+<img align="left" alt="ReactJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/react.svg"/>
+<img align="left" alt="TypeScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/typescript.svg"/>
+<img align="left" alt="NextJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/nextdotjs.svg"/>
+<img align="left" alt="Jest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/jest.svg"/>
+<img align="left" alt="Cypress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/cypress.svg"/>
+<img align="left" alt="GraphQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/graphql.svg"/>
+
+
+</br></br></br>
 
 
 ### :chart_with_upwards_trend: GitHub Stats
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fsclaro&show_icons=true&include_all_commits&count_private=true&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsclaro&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fsclaro&show_icons=true&include_all_commits&count_private=true&theme=default" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsclaro&layout=compact&theme=default" />
 </p>
+
+
+[twitter]: https://www.twitter.com/fsclaro
+[linkedin]: https://www.linkedin.com/in/nandosalles
+[github]: https://www.github.com/fsclaro
+[blog]: https://nandosalles.com.br
