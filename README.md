@@ -9,10 +9,11 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 <p align="center">
 <img src="https://img.shields.io/badge/Blog-Studio-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Portfolio-My%20Digital%20Home-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fsclaro?style=for-the-badge">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandosalles?style=for-the-badge">
 </p>
 
+### 🔗 Connect With Me
+<img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fsclaro?style=for-the-badge">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandosalles?style=for-the-badge">
 
 ### 🛡️ Skills
 ![HTML5](https://img.shields.io/badge/-Html5-000?&logo=Html5)
