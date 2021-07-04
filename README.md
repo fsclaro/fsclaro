@@ -16,7 +16,7 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1ca0f1&link=https://twitter.com/fsclaro">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandosalles">
 </p>
-[![Twitter][http://i.imgur.com/tXSoThF.png](https://twitter.com/nandosalles)
+[![Twitter][http://i.imgur.com/tXSoThF.png]](https://twitter.com/nandosalles)
 
 
 ### 🛡️ Skills
