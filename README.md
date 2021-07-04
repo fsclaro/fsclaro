@@ -40,8 +40,12 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 ![GraphQl](https://img.shields.io/badge/-GraphQl-000?&logo=GraphQl)
 
 
+### 📊 Any Stats
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/fsclaro?style=for-the-badge">
+
+
 ### :chart_with_upwards_trend: GitHub Stats
-<p align="center">
+<p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fsclaro&show_icons=true&include_all_commits&count_private=true&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsclaro&layout=compact&theme=radical" />
 </p>
