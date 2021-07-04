@@ -52,6 +52,11 @@ In my free time, I like read good books (📚) and watch my tv (📺) and movies
 
 </br></br></br>
 
+### Spotify Playing 🎧
+[<img src="https://now-playing-alfreddagenais.vercel.app/api/spotify-playing" alt="Alfred Dagenais Spotify Playing" width="350" />](https://open.spotify.com/user/fsclaro)
+
+</br></br></br>
+
 
 ### :chart_with_upwards_trend: GitHub Stats
 <p align="left">
