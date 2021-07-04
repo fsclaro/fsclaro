@@ -9,7 +9,6 @@ In my free time, I like read good books (📚) and watch my tv (📺) and movies
 
 
 ### 🔗 Connect With Me
-
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/twitter.svg"/>][twitter]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/github.svg"/>][github]
@@ -52,8 +51,19 @@ In my free time, I like read good books (📚) and watch my tv (📺) and movies
 
 </br></br></br>
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-alfreddagenais.vercel.app/api/spotify-playing" alt="Alfred Dagenais Spotify Playing" width="350" />](https://open.spotify.com/user/fsclaro)
+
+## 💕 Support me and my projects :sparkling_heart:
+
+I open-source almost everything I can, and I try to reply to everyone needing help using these projects. Obviously,
+this takes time. You can integrate and use these projects in your applications *for free*! You can even change the source code and redistribute (even resell it).
+
+However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it:
+
+ - Starring and sharing the projects you like :rocket:
+ - [![PayPal](https://alfreddagenais.github.io/badges/paypal.svg)][paypal-donations] — You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+ - [![Buy Me a Coffee](https://alfreddagenais.github.io/badges/buymeacoffee-sm.svg)][buymeacoffee] — You can make one-time donations via Buy Me a Coffee. I'll probably buy a coffee or tea. :tea:
+
+
 
 </br></br></br>
 
@@ -65,7 +75,13 @@ In my free time, I like read good books (📚) and watch my tv (📺) and movies
 </p>
 
 
+</br></br>
+
+Thanks! :heart:
+
 [twitter]: https://www.twitter.com/fsclaro
 [linkedin]: https://www.linkedin.com/in/nandosalles
 [github]: https://www.github.com/fsclaro
 [blog]: https://nandosalles.com.br
+[paypal-donations]: https://paypal.me/fsclaro
+[buymeacoffee]: https://www.buymeacoffee.com/fsclaro
