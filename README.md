@@ -45,10 +45,6 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 ![GraphQl](https://img.shields.io/badge/-GraphQl-000?&logo=GraphQl)
 
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- display the social media buttons in your README -->
-
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
@@ -57,10 +53,6 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 [![alt text][6.1]][6]
 
 
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
@@ -69,7 +61,6 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-<!-- icons without padding -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
@@ -79,9 +70,6 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 [6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
 
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
 [1]: http://www.twitter.com/carlsednaoui
 [2]: http://www.facebook.com/sednaoui
 [3]: https://plus.google.com/+CarlSednaoui
@@ -89,7 +77,7 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 [5]: http://dribbble.com/carlsednaoui
 [6]: http://www.github.com/carlsednaoui
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
 
 ### :chart_with_upwards_trend: GitHub Stats
 <p align="left">
