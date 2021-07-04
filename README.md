@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/fsclaro/fsclaro/blob/dc7dd0574929ac28b8de80fb8d7428b5cd348538/My%20Octocat.png" height="370px"/>
+</p>
+
 <h2> Hey, nice to see you. <img src="https://github.com/fsclaro/fsclaro/blob/master/wave.gif" width="28px"></h2>
 
 My name is Fernando Salles and I live in the city of Tremembé, São Paulo, Brazil (🇧🇷). I'm Web Developer and I am also a college professor in computer science and computer engineering courses at [Faculdade Anhanguera](https://www.anhanguera.com) in São José dos Campos, São Paulo, Brazil. I currently develop web solutions using both front-end and back-end. In the back-end I mainly use the [PHP language](https://www.php.net) with the [Laravel framework](https://www.laravel.com) and other solutions. 
