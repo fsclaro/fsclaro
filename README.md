@@ -31,7 +31,7 @@ If you want to know me better, access my portfolio or my personal blog or my soc
 
 
 ### 🧑🏻‍💻 Learning
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge?&logo=node.js)
 ![React](https://img.shields.io/badge/-ReactJS-000?&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![NextJS](https://img.shields.io/badge/-NextJS-000?&logo=Next.js)
