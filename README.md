@@ -10,9 +10,11 @@ In my free time, I like read good books (📚) and watch my tv (📺) and movies
 
 ### 🔗 Connect With Me
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/twitter.svg"/>][twitter]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/github.svg"/>][github]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/workplace.svg"/>][blog]
+[<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/instagram.svg"/>][instagram]
+[<img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/youtube.svg"/>][youtube]
+[<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/github.svg"/>][github]
+[<img align="left" alt="My Personal Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/workplace.svg"/>][blog]
 
 
 </br></br></br>
@@ -52,22 +54,6 @@ In my free time, I like read good books (📚) and watch my tv (📺) and movies
 </br></br></br>
 
 
-## 💕 Support me and my projects :sparkling_heart:
-
-I open-source almost everything I can, and I try to reply to everyone needing help using these projects. Obviously,
-this takes time. You can integrate and use these projects in your applications *for free*! You can even change the source code and redistribute (even resell it).
-
-However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it:
-
- - Starring and sharing the projects you like :rocket:
- - [![PayPal](https://alfreddagenais.github.io/badges/paypal.svg)][paypal-donations] — You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
- - [![Buy Me a Coffee](https://alfreddagenais.github.io/badges/buymeacoffee-sm.svg)][buymeacoffee] — You can make one-time donations via Buy Me a Coffee. I'll probably buy a coffee or tea. :tea:
-
-
-
-</br></br></br>
-
-
 ### :chart_with_upwards_trend: GitHub Stats
 <p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fsclaro&show_icons=true&include_all_commits&count_private=true&theme=default" />
@@ -82,6 +68,6 @@ Thanks! :heart:
 [twitter]: https://www.twitter.com/fsclaro
 [linkedin]: https://www.linkedin.com/in/nandosalles
 [github]: https://www.github.com/fsclaro
+[instagram]: https://www.instagram.com/nando.claro
+[youtube]: https://www.youtube.com/c/NandoSalles
 [blog]: https://nandosalles.com.br
-[paypal-donations]: https://paypal.me/fsclaro
-[buymeacoffee]: https://www.buymeacoffee.com/fsclaro
