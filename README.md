@@ -39,7 +39,7 @@ In my free time, I like read good books (📚) and watch my tv (📺) and movies
 </br></br></br>
 
 
-### 🧑🏻‍💻 Learning
+### 🧑🏻‍💻 I'm currently learning
 <img align="left" alt="NodeJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/nodedotjs.svg"/>
 <img align="left" alt="ReactJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/react.svg"/>
 <img align="left" alt="TypeScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/typescript.svg"/>
