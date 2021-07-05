@@ -12,7 +12,7 @@ In my free time, I like read good books (📚) and watch my tv (📺) and movies
 </br>
 
 
-### 🔗 Connect With Me
+### 🔗 Connect with me
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/twitter.svg"/>][twitter]
 [<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/instagram.svg"/>][instagram]
@@ -24,7 +24,7 @@ In my free time, I like read good books (📚) and watch my tv (📺) and movies
 </br></br></br>
 
 
-### 🛡️ My Skills
+### 🛡️ My skills
 
 <img align="left" alt="Html5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/html5.svg" stype="--color_fill: blue"/>
 <img align="left" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/css3.svg"/>
