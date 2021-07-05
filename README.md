@@ -32,6 +32,7 @@ In my free time, I like read good books (📚) and watch my tv (📺) and movies
 <img align="left" alt="Laravel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/laravel.svg"/>
 <img align="left" alt="Bootstrap" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/bootstrap.svg"/>
 <img align="left" alt="Javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/javascript.svg"/>
+<img align="left" alt="VueJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/vuedotjs.svg"/>
 <img align="left" alt="Jquery" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/jquery.svg"/>
 <img align="left" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/mysql.svg"/>
 <img align="left" alt="PostgreSQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/postgresql.svg"/>
