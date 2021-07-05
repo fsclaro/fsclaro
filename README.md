@@ -68,7 +68,7 @@ In my free time, I like read good books (📚) and watch my tv (📺) and movies
 
 </br></br>
 
-Thanks! :heart:
+Thanks a lot! :heart:
 
 [twitter]: https://www.twitter.com/fsclaro
 [linkedin]: https://www.linkedin.com/in/nandosalles
