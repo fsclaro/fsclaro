@@ -11,14 +11,14 @@
 <p align="left">I live in the city of Tremembé, São Paulo, Brazil. I'm Web Developer and I am also a college professor in computer science and computer engineering courses at [Faculdade Anhanguera](https://www.anhanguera.com) in São José dos Campos, São Paulo, Brazil. I'm  currently developing web solutions using both front-end and back-end. In the back-end I mainly use the [PHP language](https://www.php.net) with the [Laravel framework](https://www.laravel.com) and other solutions. 
 </p>
 
-In my free time, I like, 
+In my free time I like: 
 * 📚 - read good books
 * 📺 - watch my favorites series: Sci-Fi, Marvel and DC series too, in special Star Trek series. 
 * 🎵 - my favorite songs are the styles: Jazz, Blues, Bossa Nova and Rock n'roll.
 
 </br>
 
-### 🔗 Connect with me
+### 🔗 Connecting with me
 ---
 [<img align="left" alt="Twitter" title="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/twitter.svg"/>][twitter]
 [<img align="left" alt="Linkedin" title="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/linkedin.svg"/>][linkedin]
