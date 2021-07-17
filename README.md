@@ -1,4 +1,4 @@
-<h1> Hey, nice to see you. <img src="https://github.com/fsclaro/fsclaro/blob/master/wave.gif" width="28px">I'm Nando Salles/h1>
+<h1> Hey, nice to see you. <img src="https://github.com/fsclaro/fsclaro/blob/master/wave.gif" width="28px">I'm Nando Salles</h1>
 
 <p align="center">
 <img src="https://github.com/fsclaro/fsclaro/blob/dc7dd0574929ac28b8de80fb8d7428b5cd348538/My%20Octocat.png" height="250px"/>
