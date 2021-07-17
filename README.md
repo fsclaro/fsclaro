@@ -1,11 +1,12 @@
 <h1> Hi <img src="https://github.com/fsclaro/fsclaro/blob/master/wave.gif" width="28px">, nice to see you. I'm Nando Salles</h1>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=fsclaro" alt="Nando Salles" /> 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/fsclaro?color=red&style=flat">
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/fsclaro?color=green&style=flat">  
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/fsclaro?label=Followers&color=red&style=flat">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/fsclaro?label=Stars&color=green&style=flat">  
 </p>
 
-<br />
+<br/>
+
 <img align="right" src="https://github.com/fsclaro/fsclaro/blob/dc7dd0574929ac28b8de80fb8d7428b5cd348538/My%20Octocat.png" height="250px"/>
 <p align="left">I live in the city of Tremembé, São Paulo, Brazil. I'm Web Developer and I am also a college professor in computer science and computer engineering courses at [Faculdade Anhanguera](https://www.anhanguera.com) in São José dos Campos, São Paulo, Brazil. I'm  currently developing web solutions using both front-end and back-end. In the back-end I mainly use the [PHP language](https://www.php.net) with the [Laravel framework](https://www.laravel.com) and other solutions. 
 </p>
