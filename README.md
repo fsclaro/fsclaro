@@ -1,11 +1,10 @@
-<h1> Hey, nice to see you. <img src="https://github.com/fsclaro/fsclaro/blob/master/wave.gif" width="28px">I'm Nando Salles</h1>
-
-<p align="center">
-<img src="https://github.com/fsclaro/fsclaro/blob/dc7dd0574929ac28b8de80fb8d7428b5cd348538/My%20Octocat.png" height="250px"/>
+<h1> Hi <img src="https://github.com/fsclaro/fsclaro/blob/master/wave.gif" width="28px">, nice to see you. I'm Nando Salles</h1>
+<br />
+<img align="right" src="https://github.com/fsclaro/fsclaro/blob/dc7dd0574929ac28b8de80fb8d7428b5cd348538/My%20Octocat.png" height="250px"/>
+<p align="left">I live in the city of Tremembé, São Paulo, Brazil. I'm Web Developer and I am also a college professor in computer science and computer engineering courses at [Faculdade Anhanguera](https://www.anhanguera.com) in São José dos Campos, São Paulo, Brazil. I'm  currently developing web solutions using both front-end and back-end. In the back-end I mainly use the [PHP language](https://www.php.net) with the [Laravel framework](https://www.laravel.com) and other solutions. 
 </p>
 
 
-I live in the city of Tremembé, São Paulo, Brazil. I'm Web Developer and I am also a college professor in computer science and computer engineering courses at [Faculdade Anhanguera](https://www.anhanguera.com) in São José dos Campos, São Paulo, Brazil. I'm  currently developing web solutions using both front-end and back-end. In the back-end I mainly use the [PHP language](https://www.php.net) with the [Laravel framework](https://www.laravel.com) and other solutions. 
 
 In my free time, I like read good books (📚) and watch my tv (📺) and movies (🎞️) series. I like Sci-Fi, Marvel and DC series too, in special Star Trek series. My music (🎵) style preferred are Jazz, Blues, Bossa Nova and Rock n'roll.
 
