@@ -41,7 +41,7 @@ In my free time I like:
 <img align="left" alt="Jquery" title="Jquery" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/jquery.svg"/>
 <img align="left" alt="MySQL" title="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/mysql.svg"/>
 <img align="left" alt="PostgreSQL" title="PostgreSQL"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/postgresql.svg"/>
-<img align="left" alt="MongoDB" title="MongoDB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/mongodb.svg"/>
+<img align="left" alt="mongoDB" title="mongoDB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/mongodb.svg"/>
 <img align="left" alt="Git" title="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/git.svg"/>
 <img align="left" alt="GitHub" title="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/github.svg"/>
 <img align="left" alt="MarkDown" title="MarkDown" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/markdown.svg"/>
