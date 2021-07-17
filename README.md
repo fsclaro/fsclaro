@@ -13,6 +13,7 @@ In my free time, I like read good books (📚) and watch my tv (📺) and movies
 
 
 ### 🔗 Connect with me
+---
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/twitter.svg"/>][twitter]
 [<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/instagram.svg"/>][instagram]
@@ -25,7 +26,7 @@ In my free time, I like read good books (📚) and watch my tv (📺) and movies
 
 
 ### 🛡️ My skills
-
+---
 <img align="left" alt="Html5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/html5.svg" stype="--color_fill: blue"/>
 <img align="left" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/css3.svg"/>
 <img align="left" alt="PHP" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/php.svg"/>
@@ -47,6 +48,7 @@ In my free time, I like read good books (📚) and watch my tv (📺) and movies
 
 
 ### 🧑🏻‍💻 I'm currently learning
+---
 <img align="left" alt="NodeJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/nodedotjs.svg"/>
 <img align="left" alt="ReactJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/react.svg"/>
 <img align="left" alt="TypeScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/typescript.svg"/>
