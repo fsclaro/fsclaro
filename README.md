@@ -6,7 +6,10 @@
 
 
 
-In my free time, I like read good books (📚) and watch my tv (📺) and movies (🎞️) series. I like Sci-Fi, Marvel and DC series too, in special Star Trek series. My music (🎵) style preferred are Jazz, Blues, Bossa Nova and Rock n'roll.
+In my free time, I like, 
+* 📚 - read good books
+* 📺 - watch my favorites series: Sci-Fi, Marvel and DC series too, in special Star Trek series. 
+* 🎵 - my favorite songs are the styles: Jazz, Blues, Bossa Nova and Rock n'roll.
 
 
 </br>
