@@ -1,4 +1,10 @@
 <h1> Hi <img src="https://github.com/fsclaro/fsclaro/blob/master/wave.gif" width="28px">, nice to see you. I'm Nando Salles</h1>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=fsclaro" alt="Nando Salles" /> 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/fsclaro?color=red&style=flat">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/fsclaro?color=green&style=flat">  
+</p>
+
 <br />
 <img align="right" src="https://github.com/fsclaro/fsclaro/blob/dc7dd0574929ac28b8de80fb8d7428b5cd348538/My%20Octocat.png" height="250px"/>
 <p align="left">I live in the city of Tremembé, São Paulo, Brazil. I'm Web Developer and I am also a college professor in computer science and computer engineering courses at [Faculdade Anhanguera](https://www.anhanguera.com) in São José dos Campos, São Paulo, Brazil. I'm  currently developing web solutions using both front-end and back-end. In the back-end I mainly use the [PHP language](https://www.php.net) with the [Laravel framework](https://www.laravel.com) and other solutions. 
@@ -40,6 +46,7 @@ In my free time, I like,
 <img align="left" alt="Jquery" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/jquery.svg"/>
 <img align="left" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/mysql.svg"/>
 <img align="left" alt="PostgreSQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/postgresql.svg"/>
+<img align="left" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/mongodb.svg"/>
 <img align="left" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/git.svg"/>
 <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/github.svg"/>
 <img align="left" alt="MarkDown" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/markdown.svg"/>
