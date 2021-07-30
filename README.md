@@ -50,7 +50,7 @@ In my free time I like:
 </div>
 </br></br></br>
 
-### 🧑🏻‍💻 I'm currently learning
+### 💻 I'm currently learning
 ---
 <div style="display: inline_block">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
