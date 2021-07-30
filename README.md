@@ -31,35 +31,36 @@ In my free time I like:
 
 ### 🛡️ My skills
 ---
-<img align="left" alt="Html5" title="Html5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/html5.svg" stype="--color_fill: blue"/>
-<img align="left" alt="CSS3" title="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/css3.svg"/>
-<img align="left" alt="PHP" title="PHP 7, 8" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/php.svg"/>
-<img align="left" alt="Laravel" title="Laravel Framework" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/laravel.svg"/>
-<img align="left" alt="Bootstrap" title="Bootstrap" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/bootstrap.svg"/>
-<img align="left" alt="Javascript" title="Javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/javascript.svg"/>
-<img align="left" alt="VueJS" title="VueJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/vuedotjs.svg"/>
-<img align="left" alt="Jquery" title="Jquery" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/jquery.svg"/>
-<img align="left" alt="MySQL" title="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/mysql.svg"/>
-<img align="left" alt="PostgreSQL" title="PostgreSQL"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/postgresql.svg"/>
-<img align="left" alt="mongoDB" title="mongoDB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/mongodb.svg"/>
-<img align="left" alt="Git" title="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/git.svg"/>
-<img align="left" alt="GitHub" title="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/github.svg"/>
-<img align="left" alt="MarkDown" title="MarkDown" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/markdown.svg"/>
-<img align="left" alt="Docker" title="Docker" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/docker.svg"/>
-<img align="left" alt="Linux" title="Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/linux.svg"/>
-
+<div style="display: inline_block">
+  <img align="center" alt="Html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg">
+  <img align="center" alt="JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="PostGreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="mongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</div>
 </br></br></br>
 
 ### 🧑🏻‍💻 I'm currently learning
 ---
-<img align="left" alt="NodeJS" title="NodeJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/nodedotjs.svg"/>
-<img align="left" alt="ReactJS" title="ReactJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/react.svg"/>
-<img align="left" alt="TypeScript" title="TypeScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/typescript.svg"/>
-<img align="left" alt="NextJS" title="NextJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/nextdotjs.svg"/>
-<img align="left" alt="Jest" title="Jest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/jest.svg"/>
-<img align="left" alt="Cypress" title="Cypress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/cypress.svg"/>
-<img align="left" alt="GraphQL" title="GraphQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/graphql.svg"/>
-
+<div style="display: inline_block">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="GraphQl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
+</div>
 </br></br></br>
 
 ### :chart_with_upwards_trend: GitHub Stats
