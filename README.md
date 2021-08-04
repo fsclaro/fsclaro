@@ -26,7 +26,7 @@ In my free time I like:
 [<img align="left" alt="Youtube" title="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>][youtube]
 [<img align="left" alt="Github" title="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>][github]
 
-</br></br></br>
+</br></br></br></br>
 
 ### 🛡️ My skills
 ---
@@ -56,7 +56,7 @@ In my free time I like:
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=flat-square&logo=Insomnia&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
-</br></br></br>
+</br></br>
 
 ### 💻 I'm currently learning
 ---
@@ -73,7 +73,7 @@ In my free time I like:
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
 
-</br></br></br>
+</br></br>
 
 ### :chart_with_upwards_trend: GitHub Stats
 ---
