@@ -1,5 +1,5 @@
 <h1>
-  Hi <img src="https://github.com/fsclaro/fsclaro/blob/master/wave.gif" style="width: 28px;">, nice to see you. I'm Nando Salles
+  Hi 🖖🏻, nice to see you. I'm Nando Salles
 </h1>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=fsclaro" alt="Nando Salles" /> 
