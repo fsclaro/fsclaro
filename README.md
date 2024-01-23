@@ -10,7 +10,7 @@
 <br/>
 
 <img align="right" src="https://github.com/fsclaro/fsclaro/blob/dc7dd0574929ac28b8de80fb8d7428b5cd348538/My%20Octocat.png" height="250px"/>
-<p align="left">I live in the city of Tremembé, São Paulo, Brazil. I'm Full Stack Developer at <a href="http://www.embras.net" target="_blank">Embras Group</a> and I am also a college professor in computer science and engineering courses at <a href="https://www.anhanguera.com" target="_blank">Faculdade Anhanguera</a> in São José dos Campos and Taubaté cities, São Paulo, Brazil. I'm  currently developing web solutions using both front-end and back-end. In the back-end I mainly use the PHP language with Laravel framework or Ruby on Rails and for front-end I'm using Angular and others solutions. 
+<p align="left">I live in the city of Tremembé, São Paulo, Brazil. I am a Full Stack Developer at Grupo Embras and also a university professor in computer science and engineering courses at Faculdade Anhanguera in the cities of São José dos Campos and Taubaté, São Paulo, Brazil. I am currently developing web solutions using front-end and back-end. In the back-end I mainly use the PHP language with Laravel or Ruby on Rails framework and for the front-end I use Angular and other solutions.
 </p>
 
 In my free time I like: 
